@@ -1,3 +1,5 @@
+![Machine Learning Project](./images/MLProject.png)
+
 ---
 
 # Machine Learning Project
